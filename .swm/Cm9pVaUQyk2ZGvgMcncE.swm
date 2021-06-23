@@ -6,8 +6,8 @@
             "type": "snippet",
             "lines": [
                 " {",
-                "*  \"settingsInheritedFrom\": \"mixellent/whitesource-config@master\"",
-                " }"
+                "*  \"settingsInheritedFrom\": \"mixellent/whitesource-config@master\",",
+                "   \"test\": \"sss\""
             ],
             "firstLineNumber": 1,
             "path": ".whitesource",
@@ -19,7 +19,7 @@
     "meta": {
         "app_version": "0.4.9-1",
         "file_blobs": {
-            ".whitesource": "afa6fb340c87927355ceedfdcefaa42f3909ab7d"
+            ".whitesource": "a6bbfb76845e82c2f9c1271bc799b41b4b0f67ed"
         }
     }
 }
