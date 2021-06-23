@@ -1,0 +1,27 @@
+{
+    "id": "WQTsndX2ldta6R9iJbOG",
+    "name": "Doc 2",
+    "content": [
+        {
+            "type": "text",
+            "text": "Doc 1"
+        },
+        {
+            "type": "snippet",
+            "lines": [
+                "*# test-repo-public"
+            ],
+            "firstLineNumber": 1,
+            "path": "README.md",
+            "comments": []
+        }
+    ],
+    "symbols": {},
+    "file_version": "2.0.1",
+    "meta": {
+        "app_version": "0.4.9-1",
+        "file_blobs": {
+            "README.md": "4299af82f399c2a37edf5618508d7004ed38d236"
+        }
+    }
+}
