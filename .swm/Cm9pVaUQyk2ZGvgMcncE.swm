@@ -1,0 +1,25 @@
+{
+    "id": "Cm9pVaUQyk2ZGvgMcncE",
+    "name": "Doc5",
+    "content": [
+        {
+            "type": "snippet",
+            "lines": [
+                " {",
+                "*  \"settingsInheritedFrom\": \"mixellent/whitesource-config@master\"",
+                " }"
+            ],
+            "firstLineNumber": 1,
+            "path": ".whitesource",
+            "comments": []
+        }
+    ],
+    "symbols": {},
+    "file_version": "2.0.1",
+    "meta": {
+        "app_version": "0.4.9-1",
+        "file_blobs": {
+            ".whitesource": "afa6fb340c87927355ceedfdcefaa42f3909ab7d"
+        }
+    }
+}
