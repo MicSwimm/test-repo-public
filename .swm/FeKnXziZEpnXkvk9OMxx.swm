@@ -1,0 +1,36 @@
+{
+    "id": "FeKnXziZEpnXkvk9OMxx",
+    "name": "New Doc",
+    "content": [
+        {
+            "type": "snippet",
+            "lines": [
+                "   # define all pre config ...",
+                "   pre_config:",
+                "     define_levels:",
+                "*      - DEB",
+                "*      - INF",
+                "*      - PRT",
+                "*      - WRN",
+                "*      - ERR",
+                "*      - FAT",
+                "     format_as   : inspect",
+                "     root:",
+                "       level     : WRN"
+            ],
+            "firstLineNumber": 9,
+            "path": "config.yaml",
+            "comments": [
+                "Level definition config"
+            ]
+        }
+    ],
+    "symbols": {},
+    "file_version": "2.0.1",
+    "meta": {
+        "app_version": "0.4.9-1",
+        "file_blobs": {
+            "config.yaml": "1654f6b42f12738a075e4cc6284dd76468152b52"
+        }
+    }
+}
