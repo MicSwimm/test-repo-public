@@ -11,7 +11,9 @@
             ],
             "firstLineNumber": 1,
             "path": ".whitesource",
-            "comments": []
+            "comments": [
+                "test snippet"
+            ]
         }
     ],
     "symbols": {},
