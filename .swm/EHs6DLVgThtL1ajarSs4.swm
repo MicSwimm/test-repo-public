@@ -4,13 +4,27 @@
     "content": [
         {
             "type": "text",
-            "text": "sdfdsfsdfds hhhhhhh"
+            "text": "aaaaaa sdfdsfsdfds hhhhhhh"
+        },
+        {
+            "type": "snippet",
+            "lines": [
+                " {",
+                "   \"settingsInheritedFrom\": \"mixellent/whitesource-config@master\",",
+                "*  \"test\": \"sss\"",
+                " }"
+            ],
+            "firstLineNumber": 1,
+            "path": ".whitesource",
+            "comments": []
         }
     ],
     "symbols": {},
     "file_version": "2.0.1",
     "meta": {
         "app_version": "0.4.9-1",
-        "file_blobs": {}
+        "file_blobs": {
+            ".whitesource": "a6bbfb76845e82c2f9c1271bc799b41b4b0f67ed"
+        }
     }
 }
