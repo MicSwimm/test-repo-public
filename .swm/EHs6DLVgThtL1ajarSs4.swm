@@ -16,7 +16,9 @@
             ],
             "firstLineNumber": 1,
             "path": ".whitesource",
-            "comments": []
+            "comments": [
+                "sdsds"
+            ]
         }
     ],
     "symbols": {},
