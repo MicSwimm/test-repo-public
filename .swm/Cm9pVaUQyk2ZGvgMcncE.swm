@@ -14,12 +14,16 @@
             "comments": [
                 "test snippet"
             ]
+        },
+        {
+            "type": "text",
+            "text": "sdfsdfsd"
         }
     ],
     "symbols": {},
     "file_version": "2.0.1",
     "meta": {
-        "app_version": "0.4.9-1",
+        "app_version": "0.5.0-0",
         "file_blobs": {
             ".whitesource": "a6bbfb76845e82c2f9c1271bc799b41b4b0f67ed"
         }
