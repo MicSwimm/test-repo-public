@@ -7,19 +7,8 @@
             "text": "dsfdsfssdfdsfdsf"
         },
         {
-            "type": "snippet",
-            "lines": [
-                "*# test-repo-public"
-            ],
-            "firstLineNumber": 1,
-            "path": "README.md",
-            "comments": [
-                "sdfsdf"
-            ]
-        },
-        {
             "type": "text",
-            "text": "asdasd asdasdas dasdasdas [[sym:./README.md(33cf5b1f-6d51-4db7-b777-562e1d64f8c9)]]\n\nkl;kl\n\nl;k"
+            "text": "asdasd asdasdas dasdasdas\n\n[[sym:./.github/workflows/main.yml(817c7bec-25ee-4939-8b7c-4821a3e39a83)]]\n\nkl;kl\n\nl;k"
         },
         {
             "type": "text",
@@ -31,11 +20,6 @@
         }
     ],
     "symbols": {
-        "33cf5b1f-6d51-4db7-b777-562e1d64f8c9": {
-            "type": "path",
-            "text": "README.md",
-            "path": "README.md"
-        },
         "817c7bec-25ee-4939-8b7c-4821a3e39a83": {
             "type": "path",
             "text": ".github/workflows/main.yml",
@@ -45,8 +29,6 @@
     "file_version": "2.0.2",
     "meta": {
         "app_version": "0.5.0-0",
-        "file_blobs": {
-            "README.md": "4299af82f399c2a37edf5618508d7004ed38d236"
-        }
+        "file_blobs": {}
     }
 }
