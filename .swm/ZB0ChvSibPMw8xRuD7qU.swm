@@ -1,0 +1,22 @@
+{
+    "id": "ZB0ChvSibPMw8xRuD7qU",
+    "name": "Test",
+    "content": [
+        {
+            "type": "text",
+            "text": ";lkj;lksdfds\n\nsdfsdf\n\n[[sym:./README.md(cf2e0cbe-5d99-4c31-8dd5-2c725947cd14)]]"
+        }
+    ],
+    "symbols": {
+        "cf2e0cbe-5d99-4c31-8dd5-2c725947cd14": {
+            "type": "path",
+            "text": "README.md",
+            "path": "README.md"
+        }
+    },
+    "file_version": "2.0.2",
+    "meta": {
+        "app_version": "0.5.0-0",
+        "file_blobs": {}
+    }
+}
