@@ -4,15 +4,11 @@
     "content": [
         {
             "type": "text",
-            "text": "dsfdsfssdfdsfdsf"
+            "text": "Test\n\ndsfdsfssdfdsfdsf"
         },
         {
             "type": "text",
-            "text": "asdasd asdasdas dasdasdas\n\n[[sym:./.github/workflows/main.yml(817c7bec-25ee-4939-8b7c-4821a3e39a83)]]\n\nkl;kl\n\nl;k"
-        },
-        {
-            "type": "text",
-            "text": "Q"
+            "text": "asdasd asdasdas dasdasdas\n\n[[sym:./.github/workflows/main2.yml(817c7bec-25ee-4939-8b7c-4821a3e39a83)]]"
         },
         {
             "type": "text",
@@ -22,8 +18,8 @@
     "symbols": {
         "817c7bec-25ee-4939-8b7c-4821a3e39a83": {
             "type": "path",
-            "text": ".github/workflows/main.yml",
-            "path": ".github/workflows/main.yml"
+            "text": ".github/workflows/main2.yml",
+            "path": ".github/workflows/main2.yml"
         }
     },
     "file_version": "2.0.2",
