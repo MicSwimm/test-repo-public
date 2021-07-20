@@ -12,7 +12,33 @@
         },
         {
             "type": "text",
-            "text": "[[sym:./.github/workflows/main.yml(817c7bec-25ee-4939-8b7c-4821a3e39a83)]]"
+            "text": "[[sym:./.github/workflows/main2.yml(817c7bec-25ee-4939-8b7c-4821a3e39a83)]]\n\nasdas\n\nsdfsdfs."
+        },
+        {
+            "type": "snippet",
+            "lines": [
+                "   Verify:",
+                "     runs-on: ubuntu-latest",
+                "     steps:",
+                "*      - uses: actions/checkout@v2",
+                "*        with:",
+                "*          fetch-depth: 0 # pulling the commits history is required for the verification to function properly",
+                "*      - uses: actions/setup-node@v2",
+                "*        with:",
+                "*          node-version: '14'",
+                "*      - uses: swimmio/swimm-verify-action@v1",
+                " "
+            ],
+            "firstLineNumber": 4,
+            "path": ".github/workflows/main2.yml",
+            "comments": [
+                "[[sym:./.github/workflows/main2.yml(817c7bec-25ee-4939-8b7c-4821a3e39a83)]] /"
+            ]
+        },
+        {
+            "type": "image",
+            "src": "https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FUVOzCJmUyIDtFSn6UQb0%2F09040148-c17d-4355-b8bb-6fe78865f268.jpg?alt=media&token=38a83c0a-1010-4de7-bfb5-14ba68bc7d8f",
+            "width": 50
         }
     ],
     "symbols": {
@@ -25,6 +51,8 @@
     "file_version": "2.0.2",
     "meta": {
         "app_version": "0.5.0-0",
-        "file_blobs": {}
+        "file_blobs": {
+            ".github/workflows/main2.yml": "dc9274dc8d9737243b83f2caa6c7f6310c71b7e2"
+        }
     }
 }
