@@ -1,0 +1,26 @@
+{
+    "id": "fsWKq7hyXbp1iUIS5Yhd",
+    "name": "dfgdfgdf",
+    "content": [
+        {
+            "type": "text",
+            "text": "Test"
+        },
+        {
+            "type": "text",
+            "text": "[[sym:./logging.rb(ec63ac79-9404-4a4f-af9d-51fdfe74277a)]]"
+        }
+    ],
+    "symbols": {
+        "ec63ac79-9404-4a4f-af9d-51fdfe74277a": {
+            "type": "path",
+            "text": "logging.rb",
+            "path": "logging.rb"
+        }
+    },
+    "file_version": "2.0.2",
+    "meta": {
+        "app_version": "0.5.0-0",
+        "file_blobs": {}
+    }
+}
