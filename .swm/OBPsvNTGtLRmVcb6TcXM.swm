@@ -4,7 +4,7 @@
     "content": [
         {
             "type": "text",
-            "text": "Test\n\ndsfdsfssdfdsfdsffffff / sdfds / sdgdf\n\n```\nsadasdas dasd\n```\n\nasda"
+            "text": "Test\n\ndsfdsfssdfdsfdsffffff / sdfds / sdgdf\n\n```\nsadasdas dasd\n```\n\n[[swm-link:(fsWKq7hyXbp1iUIS5Yhd)dfgdfgdf]] [[swm-link:(ZB0ChvSibPMw8xRuD7qU)Test]]"
         },
         {
             "type": "text",
@@ -48,9 +48,9 @@
             "path": ".github/workflows/main2.yml"
         }
     },
-    "file_version": "2.0.2",
+    "file_version": "2.0.3",
     "meta": {
-        "app_version": "0.5.0-0",
+        "app_version": "0.5.2-0",
         "file_blobs": {
             ".github/workflows/main2.yml": "dc9274dc8d9737243b83f2caa6c7f6310c71b7e2"
         }
