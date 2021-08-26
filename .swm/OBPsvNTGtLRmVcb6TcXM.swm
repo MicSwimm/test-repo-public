@@ -17,6 +17,26 @@
         {
             "type": "snippet",
             "lines": [
+                " ",
+                " require File.expand_path('../logging/utils', __FILE__)",
+                " ",
+                "*require 'yaml'",
+                "*require 'stringio'",
+                "*require 'fileutils'",
+                "*require 'little-plugger'",
+                " ",
+                " HAVE_SYSLOG = require? 'syslog'",
+                " "
+            ],
+            "firstLineNumber": 5,
+            "path": "logging.rb",
+            "comments": [
+                "TETSLOGS"
+            ]
+        },
+        {
+            "type": "snippet",
+            "lines": [
                 "   Verify:",
                 "     runs-on: ubuntu-latest",
                 "     steps:",
@@ -52,6 +72,7 @@
     "meta": {
         "app_version": "0.5.6-0",
         "file_blobs": {
+            "logging.rb": "5f43d7e630b11ebb1db5856abaaa3d71562fe182",
             ".github/workflows/main2.yml": "dc9274dc8d9737243b83f2caa6c7f6310c71b7e2"
         }
     }
