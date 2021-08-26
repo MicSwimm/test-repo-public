@@ -8,7 +8,6 @@ require File.expand_path('../logging/utils', __FILE__)
 require 'yaml'
 require 'stringio'
 require 'fileutils'
-require 'little-plugger'
 
 HAVE_SYSLOG = require? 'syslog'
 
